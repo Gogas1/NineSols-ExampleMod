@@ -3,7 +3,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "Gogas1"
-name = "TPoV-Mod"
+name = "TPoVMod"
 versionNumber = "0.1.2"
 description = "Replaces Eigong themes with Through Patches of Violet by Mili"
 websiteUrl = "https://github.com/Gogas1/NineSols-TPoV-mod"
